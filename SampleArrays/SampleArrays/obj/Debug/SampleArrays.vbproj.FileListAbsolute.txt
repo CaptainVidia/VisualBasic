@@ -1,0 +1,11 @@
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\bin\Debug\SampleArrays.exe.config
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\bin\Debug\SampleArrays.exe
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\bin\Debug\SampleArrays.pdb
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\bin\Debug\SampleArrays.xml
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.vbprojAssemblyReference.cache
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.mainForm.resources
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.Resources.resources
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.vbproj.GenerateResource.cache
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.exe
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.xml
+C:\Users\George Tang\Documents\VisualBasic\SampleArrays\SampleArrays\obj\Debug\SampleArrays.pdb

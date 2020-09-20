@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProbabilityTester", "PobillityTester\ProbabilityTester.vbproj", "{F183AAB9-A1A1-43FF-88FD-60063D864A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F183AAB9-A1A1-43FF-88FD-60063D864A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F183AAB9-A1A1-43FF-88FD-60063D864A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F183AAB9-A1A1-43FF-88FD-60063D864A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F183AAB9-A1A1-43FF-88FD-60063D864A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8443B7A-322D-41E6-A65A-24DE65B561A0}
+	EndGlobalSection
+EndGlobal

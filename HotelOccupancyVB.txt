@@ -1,0 +1,64 @@
+Public Class frmMain
+    Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        txtRate.Enabled = False 'disable the textbox to enter the data on form load
+        txtRooms.Enabled = False 'disable the textbox to enter the data on form load
+        cmbFloor.Enabled = False 'disable the combobox
+        cmbFloor.Text = 1 ''first time set the text to 1
+        For n = 1 To 8 'add the combox value using for loop
+            cmbFloor.Items.Add(n)
+        Next
+    End Sub
+
+    Dim Floor As Integer = 1 ''set the floor to 1
+    Dim occupancy As Integer         ' Occupancy count
+    Dim occupancySum As Integer = 0 ' Total Occupancy count
+    Private Sub btnComplete_Click(sender As Object, e As EventArgs) Handles btnComplete.Click
+        'This calculates and displays each floors occupancy rate.
+        Const maximumFloors As Integer = 8 ''declare the number of floor
+        Const maximumRooms As Integer = 30 ''set the floor of each room to 30
+        If Floor <= 8 Then ''Check for the 8 floor not more than 8 entry
+            If Not Integer.TryParse(txtNoOfRooms.Text, occupancy) Then ''check for the integer input
+                MessageBox.Show("Enter Number of Rooms Integer only ")
+
+            ElseIf occupancy > 30 Or occupancy < 0 Then ''check for the textbox of room entry must be 0-30
+                MessageBox.Show("Enter Number of Rooms 1 to 30 only ")
+            Else
+                occupancySum += occupancy ''sum of entered room for each floor
+                ListBox1.Items.Add("Floor: " & Floor & " Rooms Occupied: " & occupancy & " Occupancy Rate: " & Math.Round((occupancy / maximumRooms) * 100, 2) & "%") 'display the each room occupancy to the listbox
+
+                If Floor <= 8 Then ''check for the floor less that or equal 8
+                    cmbFloor.Text = Floor + 1
+                    Floor += 1
+                End If
+                If Floor = 9 Then ''check if the floor value has 9 then show the combobx to 8
+                    cmbFloor.Text = 8
+                End If
+                txtRooms.Text = occupancySum.ToString ''display the rooms textbox occupancy
+                txtRate.Text = Math.Round((occupancySum / (maximumRooms * maximumFloors)) * 100, 2).ToString ''
+                txtNoOfRooms.Text = "" 'set the textbox room to empty
+            End If
+
+        Else
+            MsgBox("Total floor is calculated Please Reset for new.")
+        End If
+        txtNoOfRooms.Select() 'focus the textbox room
+
+    End Sub
+
+    Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
+        'This procedure clears all labels and list box.
+        occupancySum = 0 ''rest the occupancy sum of each floor rooms
+        txtNoOfRooms.Text = "" ''set the textbox of the room to empty
+        txtRate.Text = "" ''set the rate to empty
+        txtRooms.Text = "" ''set the rooms to empty
+        txtNoOfRooms.Select() 'focus on room textbox
+        Floor = 1 'set the floor to 1
+        cmbFloor.Text = 1 'set the combobox to 1
+        ListBox1.Items.Clear() ''çlear the listbox
+        ListBox1.Text = String.Empty 'set the listbox string to empty
+    End Sub
+
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        Me.Close() '"close the application
+    End Sub
+End Class

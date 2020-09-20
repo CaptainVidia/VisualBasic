@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccountBalance", "AccountBalance\AccountBalance.vbproj", "{B95508A7-4F0C-4F27-B471-E1D499B06A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95508A7-4F0C-4F27-B471-E1D499B06A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95508A7-4F0C-4F27-B471-E1D499B06A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95508A7-4F0C-4F27-B471-E1D499B06A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95508A7-4F0C-4F27-B471-E1D499B06A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8A7D7A-2363-44B6-99E8-75E9AC871A56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\bin\Debug\RetailPriceCalculator.exe.config
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\bin\Debug\RetailPriceCalculator.exe
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\bin\Debug\RetailPriceCalculator.pdb
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\bin\Debug\RetailPriceCalculator.xml
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.vbprojAssemblyReference.cache
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.mainForm.resources
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.Resources.resources
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.splashForm.resources
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.vbproj.GenerateResource.cache
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.exe
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.xml
+C:\Users\George Tang\Documents\VisualBasic\RetailPriceCalculator\RetailPriceCalculator\obj\Debug\RetailPriceCalculator.pdb

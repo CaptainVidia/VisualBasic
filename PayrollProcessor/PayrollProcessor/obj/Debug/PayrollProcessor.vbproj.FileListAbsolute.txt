@@ -1,0 +1,12 @@
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\bin\Debug\PayrollProcessor.exe.config
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\bin\Debug\PayrollProcessor.exe
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\bin\Debug\PayrollProcessor.pdb
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\bin\Debug\PayrollProcessor.xml
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.vbprojAssemblyReference.cache
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.mainForm.resources
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.Resources.resources
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.splashForm.resources
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.vbproj.GenerateResource.cache
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.exe
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.xml
+C:\Users\George Tang\source\repos\PayrollProcessor\PayrollProcessor\obj\Debug\PayrollProcessor.pdb

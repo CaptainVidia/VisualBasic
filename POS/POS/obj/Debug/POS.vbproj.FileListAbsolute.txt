@@ -1,0 +1,15 @@
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\bin\Debug\POS.exe.config
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\bin\Debug\POS.exe
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\bin\Debug\POS.pdb
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\bin\Debug\POS.xml
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.vbprojAssemblyReference.cache
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.frmPOS.resources
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.frmSplash.resources
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.vbproj.GenerateResource.cache
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.exe
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.xml
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.pdb
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.frmTendered.resources
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.frmChange.resources
+C:\Users\George Tang\Documents\VisualBasic\POS\POS\obj\Debug\POS.frmReceipt.resources

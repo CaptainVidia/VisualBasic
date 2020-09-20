@@ -1,0 +1,12 @@
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.vbprojAssemblyReference.cache
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.frmMain.resources
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Resources.resources
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.vbproj.GenerateResource.cache
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.xml
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.xml
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\Users\George Tang\Documents\VisualBasic\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.frmSplash.resources
